@@ -313,42 +313,42 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: #eee4da;
+    background: #eee4da url('http://imageshack.com/a/img829/1810/vyw2.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: #ede0c8;
+    background: #ede0c8 url('http://imageshack.com/a/img811/2564/8g9i.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    color: #f9f6f2;
-    background: #f2b179; }
+    color: #f9f6f2 ;
+    background: #f2b179 url('http://imageshack.com/a/img46/195/l1zh.jpg'); }
   .tile.tile-16 .tile-inner {
-    color: #f9f6f2;
-    background: #f59563; }
+    color: #f9f6f2 ;
+    background: #f59563 url('http://imageshack.com/a/img703/5418/urwt.jpg'); }
   .tile.tile-32 .tile-inner {
-    color: #f9f6f2;
-    background: #f67c5f; }
+    color: #f9f6f2 ;
+    background: #f67c5f url('http://imageshack.com/a/img853/7457/19k1.jpg'); }
   .tile.tile-64 .tile-inner {
-    color: #f9f6f2;
-    background: #f65e3b; }
+    color: #f9f6f2 ;
+    background: #f65e3b url('http://imageshack.com/a/img41/2564/07hq.jpg'); }
   .tile.tile-128 .tile-inner {
     color: #f9f6f2;
-    background: #edcf72;
+    background: #edcf72 url('http://imageshack.com/a/img69/5829/zk3u.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
       .tile.tile-128 .tile-inner {
-        font-size: 25px; } }
+        font-size: 25px ; } }
   .tile.tile-256 .tile-inner {
     color: #f9f6f2;
-    background: #edcc61;
+    background: #edcc61 url('http://imageshack.com/a/img34/6814/tuie.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
       .tile.tile-256 .tile-inner {
-        font-size: 25px; } }
+        font-size: 25px ; } }
   .tile.tile-512 .tile-inner {
     color: #f9f6f2;
-    background: #edc850;
+    background: #edc850 url('http://imageshack.com/a/img809/3572/ulwk.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
@@ -356,7 +356,7 @@ hr {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
     color: #f9f6f2;
-    background: #edc53f;
+    background: #edc53f url('http://imageshack.com/a/img837/8855/sq34.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 35px; }
     @media screen and (max-width: 520px) {
@@ -364,7 +364,7 @@ hr {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
     color: #f9f6f2;
-    background: #edc22e;
+    background: #edc22e url('http://imageshack.com/a/img28/1385/lk7l.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 35px; }
     @media screen and (max-width: 520px) {
